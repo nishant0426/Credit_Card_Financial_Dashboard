@@ -50,5 +50,5 @@ It provides **weekly insights** into key credit card performance metrics, enabli
 - Regional Insights  
 - WoW Change in Revenue & Transactions  
 
-## Screenshots
+## Screenshot
 ![Dashboard Preview](https://github.com/nishant0426/Credit_Card_Financial_Dashboard/blob/main/Screenshot%20(85).png)
